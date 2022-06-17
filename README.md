@@ -50,5 +50,5 @@ python scripts/live-detection.py
 ``` 
 
 you will be able to detect some thing like that 
-
+![Alt text](preds.png)
 
